@@ -1,0 +1,7 @@
+# Не выкладывать служебные файлы Vercel (там токен доступа)
+.vercel
+.env*
+.gitignore
+.vercelignore
+_headers
+_redirects
